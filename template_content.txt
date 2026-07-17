@@ -1,0 +1,69 @@
+--- Slide 1 ---
+Presentation TemplateFinspark Hackathon 2026
+Your Team Name :
+
+Your team bio :
+
+Date :
+
+--- Slide 2 ---
+Problem Statement?
+Mention the problem statement selected by your team and explain why you chose to solve it.
+
+--- Slide 3 ---
+Pre-Requisite
+List any assumptions, required access, datasets, tools, APIs, environments or inputs needed for your solution to work.
+
+--- Slide 4 ---
+Tools or resources
+Mention the technologies, frameworks, platforms, libraries, datasets or references used to build your solution.
+
+--- Slide 5 ---
+Supporting Functional Documents
+Add any supporting documents, user flows, process notes, research links, logic flows or references that explain your solution better.
+
+--- Slide 6 ---
+Key Differentiators & Adoption Plan
+Mention the technologies, frameworks, platforms, libraries, datasets or references used to build your solution.
+
+--- Slide 7 ---
+GitHub Repository Link & supporting diagrams, screenshots, if any
+Add your GitHub link along with any diagrams, screenshots or architecture references that support your prototype.
+
+--- Slide 8 ---
+Business Potential and Relevance
+Explain the future potential of your solution, including expansion, real-world use cases and long-term applicability.
+
+--- Slide 9 ---
+Uniqueness of Approach and Solution
+Highlight what is innovative, original or different about your approach compared to existing solutions.
+
+--- Slide 10 ---
+User Experience
+Show how users will interact with the solution and why it is simple, clear and usable.
+
+--- Slide 11 ---
+Scalability
+Explain how the solution can scale across branches, users, systems, transaction volumes or banking environments.
+
+--- Slide 12 ---
+Ease of Deployment and Maintenance
+Explain how practical the solution is to implement, run, maintain and improve over time.
+
+--- Slide 13 ---
+Security Considerations
+Describe how the solution handles cybersecurity risks, data protection, access control, compliance and safe implementation.
+
+--- Slide 14 ---
+Architecture diagram & Images
+Add a clear architecture diagram showing how the solution works across components, systems, data flows and users.
+
+--- Slide 15 ---
+Solution Screenshots & video & Github Link
+Add prototype screenshots, demo video link, GitHub link and any visuals that prove the solution is functional.
+
+--- Slide 16 ---
+Thank You
+Team member names
+Add team member names, roles, contact details and any closing note.
+
